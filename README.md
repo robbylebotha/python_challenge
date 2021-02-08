@@ -14,8 +14,9 @@ Now that you created a visualisation of the sighting data carry on a data explor
 **Goals:** 
 
  -  Wrangle location data
- - Use statistical methods to find trends, specifically peaks times of 
-	traffic.      
+ - Use statistical methods to find trends or any relationships
+
+**I attemted to the standard deviation for the speed on the devices, in the hopes that this can be read to realiase how many people/devices in this data sample where still still or walking around the vicinity or the of the BLE Proxy devices. Glancing at the produced graph, we can see that there are very few outliers.**   
 
 **Steps:** 
 
@@ -28,5 +29,6 @@ Now that you created a visualisation of the sighting data carry on a data explor
 > Exmple Run **python sd_speed.py** to run the Speed Standard Deviation Map
 > We expect to get this output:
 [Sample graph output](https://github.com/robbylebotha/python_challenge/blob/main/Figure_1.png)
+ 
 
 
