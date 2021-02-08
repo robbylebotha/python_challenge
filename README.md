@@ -26,5 +26,7 @@ Now that you created a visualisation of the sighting data carry on a data explor
 
 > Run: python *.py
 > Exmple Run **python sd_speed.py** to run the Speed Standard Deviation Map
+> We expect to get this output:
+[Sample graph output](https://github.com/robbylebotha/python_challenge/blob/main/Figure_1.png)
 
 
