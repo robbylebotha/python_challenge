@@ -7,7 +7,7 @@ Now that you created a visualisation of the sighting data carry on a data explor
 1) Use any statistical methods to find any interesting relationships, trends or holes in the data. 
 2) Report on your method and explain what you found. Summarise the steps taken that led to your findings.
 
-> `Blockquote` I decided to go for Gaussian Distribution
+`I decided to go for Gaussian Distribution` 
 
 #### Tools: VS Code, Python, Panda, Numpy, matplotlib
 
